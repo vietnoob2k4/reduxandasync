@@ -1,4 +1,6 @@
 # Sample Snack app
+Nguyễn Đình Việt bit220169
+
 
 ![image](https://github.com/user-attachments/assets/7d6ec40d-3710-42e7-80df-19ccec2bfe74)
 ![image](https://github.com/user-attachments/assets/b46e70b2-3ced-42e3-a256-d997e0f423b7)
